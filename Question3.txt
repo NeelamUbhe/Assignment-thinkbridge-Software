@@ -1,0 +1,21 @@
+Functionality:
+1. Name, middle name and last name takes alphanumeric values but prompts about the same that only alphabets and dot can be given.
+2.Phone number and mobile number both only take numeric values, which is correct also if invalid mobile number given, it is prompting the same. Works fine.
+3. Adhar card no. ake numeric values and if invalid number given, it is prompting the same. Works fine.
+4. Nearby Reference Consumer No - takes numric values and prompts if invalid value given. Works fine.
+5. If pincode given only then the Select area and selct road name values are population accordingly which is great.
+6. If we click on reset all button then some of the nom mandatory fields like adhar card number,test report no do not get rest, which is wrong everything should get reset.
+7. Submit button is not ebabled until and unless we fill all the mandatory fields, which is right.
+
+
+
+Usability:
+1.The website can be made more easy to understand, as some of the fields in connection details might not be familiar to the customer and he/she may end up given wrong information.
+2.For some fields it takes alphanumeric values and after pressing enter it gives a prompt that only alphabets should be used, which can be improvised but allowing only alphabets in the box.
+
+
+UI aesthetics:
+1. Very less use of white spaces, which makes it look messier.
+2. Muted colors are used, which is good.
+3. The webpage looks very complicated and can be made more presentable so that the user has a good experience using it.
+4. Alignment looks uneven.
